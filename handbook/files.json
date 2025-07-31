@@ -2604,13 +2604,6 @@
     "lastUpdated": "2025-04-23T17:46:31.549Z"
   },
   {
-    "id": "1yqilsudf2oZl2dV9TS-WOp-LpVPXbKrXHXb15qXxX5I",
-    "name": "Glucose, Amniotic Fluid",
-    "url": "https://docs.google.com/document/d/1yqilsudf2oZl2dV9TS-WOp-LpVPXbKrXHXb15qXxX5I/edit",
-    "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-07-31T18:33:47.965Z"
-  },
-  {
     "id": "1Ij4iFLo4WmVqXXBXj_ZVuv1E_4v1FE2I9w_85M_RXBE",
     "name": "Glucose, Body Fluid",
     "url": "https://docs.google.com/document/d/1Ij4iFLo4WmVqXXBXj_ZVuv1E_4v1FE2I9w_85M_RXBE/edit",
@@ -2618,39 +2611,11 @@
     "lastUpdated": "2025-07-31T19:00:24.968Z"
   },
   {
-    "id": "12cX91nXVZWT5OGbO_D_dIdUS3aRl0mF4s8nID5alOvY",
-    "name": "Glucose, CSF",
-    "url": "https://docs.google.com/document/d/12cX91nXVZWT5OGbO_D_dIdUS3aRl0mF4s8nID5alOvY/edit",
-    "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-07-31T18:40:51.839Z"
-  },
-  {
     "id": "12-Q7BgZeS3U1bxI1RprUxZeQ2nf8eM3ogreGY43A6rM",
     "name": "Glucose, Fasting",
     "url": "https://docs.google.com/document/d/12-Q7BgZeS3U1bxI1RprUxZeQ2nf8eM3ogreGY43A6rM/edit",
     "type": "application/vnd.google-apps.document",
     "lastUpdated": "2025-07-25T13:37:04.783Z"
-  },
-  {
-    "id": "1cvClOkF7Mh1PJDRSInhjOM_v-kOE8t84USeKgk17TCE",
-    "name": "Glucose, Pericardial Fluid",
-    "url": "https://docs.google.com/document/d/1cvClOkF7Mh1PJDRSInhjOM_v-kOE8t84USeKgk17TCE/edit",
-    "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-07-31T18:56:03.554Z"
-  },
-  {
-    "id": "1BXloPtKBBVRQik6IesVi7izBzbVfz64HnTVJVEKMryI",
-    "name": "Glucose, Peritoneal Fluid",
-    "url": "https://docs.google.com/document/d/1BXloPtKBBVRQik6IesVi7izBzbVfz64HnTVJVEKMryI/edit",
-    "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-07-31T18:52:36.841Z"
-  },
-  {
-    "id": "1Ph-2pSkpQ1ug8K6EGl3yOcoThwLC8SXR5jxV4s8MLeE",
-    "name": "Glucose, Pleural Fluid",
-    "url": "https://docs.google.com/document/d/1Ph-2pSkpQ1ug8K6EGl3yOcoThwLC8SXR5jxV4s8MLeE/edit",
-    "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-07-31T18:51:37.153Z"
   },
   {
     "id": "1K4zGloxV_747rYfeh9MvEVMHH0I0Ktyv9c8o5aSkjgk",
@@ -2909,7 +2874,7 @@
     "name": "Hepatitis B Core Total Antibody",
     "url": "https://docs.google.com/document/d/1Ps4tP478xKZS7O6aUqDG_DUIpAX3F54kHie7oDF7MDU/edit",
     "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-07-31T19:49:51.821Z"
+    "lastUpdated": "2025-07-31T19:53:16.055Z"
   },
   {
     "id": "1m5Wsb21Vif89sj0RgSXYsPBuPPFF_SJMIpZson5zumM",
@@ -4207,11 +4172,18 @@
     "lastUpdated": "2025-04-24T17:29:06.409Z"
   },
   {
+    "id": "1Ai07D2y8IO4OvYNazvCxW5aOe6QARWeobF2xF37H7y0",
+    "name": "Vanillylmandelic Acid, Urine - 24 hour",
+    "url": "https://docs.google.com/document/d/1Ai07D2y8IO4OvYNazvCxW5aOe6QARWeobF2xF37H7y0/edit",
+    "type": "application/vnd.google-apps.document",
+    "lastUpdated": "2025-07-31T19:53:16.427Z"
+  },
+  {
     "id": "1wIWRc2ZL2Gn5Uf3GBrnzj6RGkGoBFX6y8qE6OqK_Ckg",
     "name": "Vanillylmandelic Acid, Urine - Random",
     "url": "https://docs.google.com/document/d/1wIWRc2ZL2Gn5Uf3GBrnzj6RGkGoBFX6y8qE6OqK_Ckg/edit",
     "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-07-31T19:50:19.760Z"
+    "lastUpdated": "2025-07-31T19:52:20.110Z"
   },
   {
     "id": "1-OIlynPk6G8Ski6K-2vAcMMxAv89S1ERCV8N2DrCWtM",
