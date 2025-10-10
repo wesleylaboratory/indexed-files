@@ -1478,10 +1478,10 @@
   },
   {
     "id": "1N8h39Pm-YitxofHBi5LK9dTkZCLCus4obfpQwBR7YhU",
-    "name": "Chromosome Analysis - Instability Syndrome",
+    "name": "Chromosome Analysis - Instability Syndrome (KARYOINST)",
     "url": "https://docs.google.com/document/d/1N8h39Pm-YitxofHBi5LK9dTkZCLCus4obfpQwBR7YhU/edit",
     "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-09-22T19:28:32.489Z"
+    "lastUpdated": "2025-10-10T15:33:29.177Z"
   },
   {
     "id": "1ic3r2RCYrNvnkhlREEiKOjkdN3f-QzFb3EFZUR7q6TI",
@@ -1492,10 +1492,10 @@
   },
   {
     "id": "1sX_kCE3frf_x-QKGPpzfwwYxgfiZGgHSMe0j_TGTjhs",
-    "name": "Chromosome Analysis - Microarray",
+    "name": "Chromosome Analysis - Microarray (KARYOSNP)",
     "url": "https://docs.google.com/document/d/1sX_kCE3frf_x-QKGPpzfwwYxgfiZGgHSMe0j_TGTjhs/edit",
     "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-09-22T19:53:27.753Z"
+    "lastUpdated": "2025-10-10T15:34:06.845Z"
   },
   {
     "id": "1jLQD42sIuwKQPhnBrsW_0XXKMYLNoCyh4FCWJU79mTo",
@@ -1503,13 +1503,6 @@
     "url": "https://docs.google.com/document/d/1jLQD42sIuwKQPhnBrsW_0XXKMYLNoCyh4FCWJU79mTo/edit",
     "type": "application/vnd.google-apps.document",
     "lastUpdated": "2025-09-30T15:16:04.725Z"
-  },
-  {
-    "id": "17htAh3FUHVVe9tJbTO96gIG-SK_LQ3ujtidkRBxAMvw",
-    "name": "Chromosome Analysis - RSNP",
-    "url": "https://docs.google.com/document/d/17htAh3FUHVVe9tJbTO96gIG-SK_LQ3ujtidkRBxAMvw/edit",
-    "type": "application/vnd.google-apps.document",
-    "lastUpdated": "2025-09-22T20:07:04.436Z"
   },
   {
     "id": "1tEfTddUeG4nSyLGxdRhC20Gz_TUxo0Ctq-iJGP-bS5w",
@@ -1524,6 +1517,13 @@
     "url": "https://docs.google.com/document/d/1rG_x-14uJLbTFShQPSUQm67-x8YTzz8yumWX5G-BvlY/edit",
     "type": "application/vnd.google-apps.document",
     "lastUpdated": "2025-09-22T19:43:41.333Z"
+  },
+  {
+    "id": "17htAh3FUHVVe9tJbTO96gIG-SK_LQ3ujtidkRBxAMvw",
+    "name": "Chromosome Analysis - w/ refelex to microarray (KARYSRSNP)",
+    "url": "https://docs.google.com/document/d/17htAh3FUHVVe9tJbTO96gIG-SK_LQ3ujtidkRBxAMvw/edit",
+    "type": "application/vnd.google-apps.document",
+    "lastUpdated": "2025-10-10T15:35:34.071Z"
   },
   {
     "id": "1avWjoanWauMMUXnvrTY896EasiiMJifjH31npnA9X34",
